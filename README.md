@@ -3,6 +3,6 @@ Description:  This repository contains notes on data science related topics. Not
 
 ## Index
 
-* [1. Machine Learning Algorithms](#Machine-Learning-Algorithms)
+* [1. Machine Learning Algorithms](#https://github.com/abhiatgith/ipynbees/tree/master/Machine%20Learning%20Algorithms)
 * [2. Machine Leaning Concepts]
 * [3. Pycharm]
