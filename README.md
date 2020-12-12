@@ -18,5 +18,10 @@ IPython Notebooks with notes and implementations demonstrating Machine Learning 
 | [Logistic-Regression](https://github.com/abhiatgith/ipynbees/blob/master/Machine%20Learning%20Algorithms/Logistic%20Regression.ipynb) | Notes explaining the Logistic Regression Algorithm |
 
 ## [Machine-Learning-Concepts](https://github.com/abhiatgith/ipynbees/tree/master/Machine%20Learning%20Concepts)
+
+IPython Notebooks with notes on different Machine Learning concepts.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Beginner-Level-Questions-and-Answers](https://github.com/abhiatgith/ipynbees/blob/master/Machine%20Learning%20Concepts/Machine%20Learning%20-%20Beginner%20Level%20Questions%20and%20Answers.ipynb) | Q & A's related to Machine Learning Concepts |
 | [Underfitting-and-Overfitting](https://github.com/abhiatgith/ipynbees/blob/master/Machine%20Learning%20Concepts/Machine%20Learning%20-%20Underfitting%20and%20Overfitting.ipynb) | Notes on the underfitting and Overfitting concepts in Machine Learning |
