@@ -4,7 +4,6 @@ Description:  This repository contains notes on data science related topics. Not
 
 ## Index
 
-<<<<<<< HEAD
 * [Machine-Learning-Algorithms](#Machine-Learning-Algorithms)
 * [Machine-Learning-Concepts](#Machine-Learning-Concepts)
 
