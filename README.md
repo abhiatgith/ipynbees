@@ -31,7 +31,4 @@ IPython Notebooks with notes on different Machine Learning concepts.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Anaconda-and-Pycharm-Basics](https://github.com/abhiatgith/ipynbees/blob/master/How%20Tos/Anaconda%20and%20Pycharm%20Basics.ipynb) | Introduction
-Creating your own python project on Pycharm
-Creating a new anaconda environment and Installing Packages
-Pycharm Installation and creating a new project |
+| [Anaconda-and-Pycharm-Basics](https://github.com/abhiatgith/ipynbees/blob/master/How%20Tos/Anaconda%20and%20Pycharm%20Basics.ipynb) | Introduction, Creating your own python project on Pycharm, Creating a new anaconda environment and Installing Packages, Pycharm Installation and creating a new project |
