@@ -6,7 +6,7 @@ Description:  This repository contains notes on data science related topics. Not
 
 * [Machine-Learning-Algorithms](#Machine-Learning-Algorithms)
 * [Machine-Learning-Concepts](#Machine-Learning-Concepts)
-* [How-To](#How-Tos)
+* [How-Tos](#How-Tos)
 
 ## [Machine-Learning-Algorithms](https://github.com/abhiatgith/ipynbees/tree/master/Machine%20Learning%20Algorithms)
 
@@ -26,3 +26,12 @@ IPython Notebooks with notes on different Machine Learning concepts.
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Beginner-Level-Questions-and-Answers](https://github.com/abhiatgith/ipynbees/blob/master/Machine%20Learning%20Concepts/Machine%20Learning%20-%20Beginner%20Level%20Questions%20and%20Answers.ipynb) | Q & A's related to Machine Learning Concepts |
 | [Underfitting-and-Overfitting](https://github.com/abhiatgith/ipynbees/blob/master/Machine%20Learning%20Concepts/Machine%20Learning%20-%20Underfitting%20and%20Overfitting.ipynb) | Notes on the underfitting and Overfitting concepts in Machine Learning |
+
+## [How-Tos](https://github.com/abhiatgith/ipynbees/tree/master/How%20Tos)
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Anaconda-and-Pycharm-Basics](https://github.com/abhiatgith/ipynbees/blob/master/How%20Tos/Anaconda%20and%20Pycharm%20Basics.ipynb) | Introduction
+Creating your own python project on Pycharm
+Creating a new anaconda environment and Installing Packages
+Pycharm Installation and creating a new project |
