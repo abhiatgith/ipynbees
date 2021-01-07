@@ -6,6 +6,7 @@ Description:  This repository contains notes on data science related topics. Not
 
 * [Machine-Learning-Algorithms](#Machine-Learning-Algorithms)
 * [Machine-Learning-Concepts](#Machine-Learning-Concepts)
+* [How-To](#How-Tos)
 
 ## [Machine-Learning-Algorithms](https://github.com/abhiatgith/ipynbees/tree/master/Machine%20Learning%20Algorithms)
 
